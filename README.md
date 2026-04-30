@@ -1,14 +1,8 @@
-<div align="left">
+<div align="center">
   <h1>Hello, I'm Rian Guilherme 👋</h1>
 </div>
 
----
-
-### 📖 About me
-
-<p align="justify">I am a computer science student passionate about the field, always looking to learn more. I am deepening my knowledge in backend and data, but always seeking to understand market technologies to stay up to date. Programming is life.</p>
-
-<div align="left">
+<div align="center">
     <a href="https://github.com/rianGui03?tab=followers">
         <img 
             alt="Followers" 
@@ -31,6 +25,14 @@
         />
     </a>
 </div>
+
+---
+
+### 📖 About me
+
+<p align="justify">I am a computer science student passionate about the field, always looking to learn more. I am deepening my knowledge in backend and data, but always seeking to understand market technologies to stay up to date. Programming is life.</p>
+
+
 
 ---
 

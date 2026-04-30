@@ -66,6 +66,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
   <img 
+    title="C" 
+    alt="C" 
+    width="40" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+  />
+  <img 
     title="Spring Boot" 
     alt="Spring"
     width="40" 

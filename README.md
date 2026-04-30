@@ -26,13 +26,13 @@
     </a>
 </div>
 
-<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
+<img src="https://dummyimage.com/1000x5/30363d/30363d.png" width="100%" />
 
 ## 📖 About me
 
 <p align="justify">I am a computer science student passionate about the field, always looking to learn more. I am deepening my knowledge in backend and data, but always seeking to understand market technologies to stay up to date. Programming is life.</p>
 
-<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
+<img src="https://dummyimage.com/1000x5/30363d/30363d.png" width="100%" />
 
 ## 🛠️ Stacks
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
+<img src="https://dummyimage.com/1000x5/30363d/30363d.png" width="100%" />
 
 ### 📊 Stats
 

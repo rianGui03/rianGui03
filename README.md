@@ -26,86 +26,42 @@
     </a>
 </div>
 
----
+<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
 
-### 📖 About me
+## 📖 About me
 
 <p align="justify">I am a computer science student passionate about the field, always looking to learn more. I am deepening my knowledge in backend and data, but always seeking to understand market technologies to stay up to date. Programming is life.</p>
 
+<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
+
+## 🛠️ Stacks
+
+#### Front-end
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+#### Back-end
+<p align="left">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c" />
+   </a>
+</p>
+
+#### Frameworks & More
+<p align="left">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,django,spring">
+   </a>
+</p>
 
 
----
 
-### 🛠️ Stacks
-
-<div align="left">
-  <img
-    title="HTML5" 
-    alt="HTML"  
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
-    title="CSS3" 
-    alt="CSS" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img
-    title="JavaScript" 
-    alt="JS" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />
-  <img 
-    title="Java" 
-    alt="Java" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  />
-  <img 
-    title="C" 
-    alt="C" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-  />
-  <img 
-    title="Spring Boot" 
-    alt="Spring"
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-  />
-  <img 
-    title="Python" 
-    alt="Python" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
-  <img 
-    title="Django" 
-    alt="Django"
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-  />
-  <img 
-    title="Git" 
-    alt="Git" 
-    width="40" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-</div>
 <br/>
 
----
+<img src="https://dummyimage.com/1000x8/30363d/30363d.png" width="100%" />
 
 ### 📊 Stats
 

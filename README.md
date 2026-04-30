@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/rianGui03?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rianGui03?color=555555&labelColor=1c1c1c&style=for-the-badge&logo=github&label=Followers&logoColor=white" /></a><a href="https://www.linkedin.com/in/riangui"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://t.me/riangui03"><img alt="Telegram" title="Send me a message on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://github.com/rianGui03?tab=followers"><img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rianGui03?color=555555&labelColor=1c1c1c&style=for-the-badge&logo=github&label=Followers&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/riangui"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://t.me/riangui03"><img alt="Telegram" title="Send me a message on Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <img src="https://dummyimage.com/1000x5/30363d/30363d.png" width="100%" />

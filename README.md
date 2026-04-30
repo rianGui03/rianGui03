@@ -43,7 +43,7 @@
 
 <img src="https://dummyimage.com/1000x5/30363d/30363d.png" width="100%" />
 
-### 📊 Stats
+## 📊 Stats
 
 <div align="left">
   <img 

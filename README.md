@@ -13,7 +13,7 @@
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rianGui03?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rianGui03?color=555555&labelColor=1c1c1c&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/riangui">
@@ -21,6 +21,13 @@
             alt="LinkedIn" 
             title="Connect on LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://t.me/riangui03">
+        <img 
+            alt="Telegram" 
+            title="Send me a message on Telegram" 
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         />
     </a>
 </div>
